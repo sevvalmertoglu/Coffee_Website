@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "Hatay Kahvesi",
+        "price": 99.99,
+        "image": "resimler/hataykahvesi8.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cilveli Türk Kahvesi",
+        "price": 219.99,
+        "image": "resimler/cilvelikahve9.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Türk Kahvesi",
+        "price": 149.99,
+        "image": "resimler/türkkahvesi6.jpg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Çikolatalı Türk Kahvesi",
+        "price": 199.99,
+        "image": "resimler/aromalı 250gr.png"
+    },
+    {
+        "id": 5,
+        "name": "Kafeinsiz Kahve",
+        "price": 119.99,
+        "image": "resimler/kafeinsiz250gr.png"
+    },
+    {
+        "id": 6,
+        "name": "Menengiç Kahvesi",
+        "price": 169.99,
+        "image": "resimler/menengiç 200gr.png"
+    },
+    {
+        "id": 7,
+        "name": "Fındıklı Dibek Kahvesi",
+        "price": 99.99,
+        "image": "resimler/dibek 250gr.png"
+    },
+    {
+        "id": 8,
+        "name": "Osmanlı Kahvesi",
+        "price": 299.99,
+        "image": "resimler/osso-500-gr-osmanli-kahvesi.png"
+    },
+    {
+        "id": 9,
+        "name": "Hazır Türk Kahvesi",
+        "price": 179.99,
+        "image": "resimler/türkkahvesi500gr.png"
+    },
+    {
+        "id": 10,
+        "name": "Özel Tasarım Türk Kahvesi Fincan Takımı",
+        "price": 549.99,
+        "image": "resimler/türkkahvesifincan.png"
+    },
+    {
+        "id": 11,
+        "name": "Tarihi Adıyaman - Türk Kahvesi",
+        "price": 159.99,
+        "image": "resimler/türkkahvesi.png"
+    },
+    {
+        "id": 12,
+        "name": "Kervansaray Türk Kahvesi",
+        "price": 239.99,
+        "image": "resimler/kervansaray.png"
+    },
+    {
+        "id": 13,
+        "name": "Sütlü Türk Kahvesi",
+        "price": 99.99,
+        "image":  "resimler/kahve3.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Süvari Kahvesi",
+        "price": 139.99,
+        "image": "resimler/süvarikahve10.jpeg"
+    },
+    {
+        "id": 15,
+        "name": "Özel Yapım Menengiç Türk Kahvesi",
+        "price": 189.99,
+        "image": "resimler/menengiç1.jpg"
+    }
+]
